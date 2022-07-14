@@ -1,4 +1,4 @@
-# Grokking the Coding Interview
+# Code Prep
 
 ## Introduction
 1. [Who should take this course.html](GrokkCode\1._Introduction\1_Who_should_take_this_course.html)
